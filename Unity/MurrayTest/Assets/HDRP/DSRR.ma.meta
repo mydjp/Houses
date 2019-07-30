@@ -1,0 +1,335 @@
+fileFormatVersion: 2
+guid: ccf0436b9e6dca14ab8bb9bc09953578
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: FloorBoards_pCube237
+    100004: FloorBoards_pCube243
+    100006: FloorBoards_pCube244
+    100008: FloorBoards_pCube245
+    100010: FloorBoards_pCube248
+    100012: pCube241
+    100014: pCube251
+    100016: pCube255
+    100018: pCube262
+    100020: pCube265
+    100022: polySurface26
+    100024: polySurface32
+    100026: polySurface36
+    100028: polySurface38
+    100030: polySurface44
+    100032: polySurface45
+    100034: polySurface46
+    100036: polySurface47
+    100038: polySurface48
+    100040: polySurface53
+    100042: polySurface58
+    100044: polySurface65
+    100046: polySurface66
+    100048: polySurface67
+    100050: polySurface69
+    100052: polySurface70
+    100054: pPlane2
+    100056: pSphere8
+    400000: //RootNode
+    400002: FloorBoards_pCube237
+    400004: FloorBoards_pCube243
+    400006: FloorBoards_pCube244
+    400008: FloorBoards_pCube245
+    400010: FloorBoards_pCube248
+    400012: pCube241
+    400014: pCube251
+    400016: pCube255
+    400018: pCube262
+    400020: pCube265
+    400022: polySurface26
+    400024: polySurface32
+    400026: polySurface36
+    400028: polySurface38
+    400030: polySurface44
+    400032: polySurface45
+    400034: polySurface46
+    400036: polySurface47
+    400038: polySurface48
+    400040: polySurface53
+    400042: polySurface58
+    400044: polySurface65
+    400046: polySurface66
+    400048: polySurface67
+    400050: polySurface69
+    400052: polySurface70
+    400054: pPlane2
+    400056: pSphere8
+    2100000: DSRRMirror
+    2100002: DSRRTrash
+    2100004: DSRRCabnit
+    2100006: DSRRToilet
+    2100008: GBedRDoorFrames
+    2100010: DSRRFloorBoards
+    2100012: DSRRFloor
+    2100014: DSRRStainlessSteel
+    2100016: DSRRBackWall
+    2100018: DSRRShowerWall
+    2100020: DSRRFrontWall
+    2100022: DSRRSideWall
+    2100024: DSRRSinkWall
+    2100026: DSRRDoor
+    2100028: DSRRSinkCabnit
+    2100030: DSRRCounterTop
+    2100032: DSRRSink
+    2100034: DSRRLightCovers
+    2100036: DSRRShower
+    2300000: FloorBoards_pCube237
+    2300002: FloorBoards_pCube243
+    2300004: FloorBoards_pCube244
+    2300006: FloorBoards_pCube245
+    2300008: FloorBoards_pCube248
+    2300010: pCube241
+    2300012: pCube251
+    2300014: pCube255
+    2300016: polySurface26
+    2300018: polySurface32
+    2300020: polySurface36
+    2300022: polySurface38
+    2300024: polySurface44
+    2300026: polySurface45
+    2300028: polySurface46
+    2300030: polySurface47
+    2300032: polySurface48
+    2300034: polySurface58
+    2300036: polySurface65
+    2300038: polySurface66
+    2300040: polySurface67
+    2300042: polySurface69
+    2300044: polySurface70
+    2300046: pPlane2
+    3300000: FloorBoards_pCube237
+    3300002: FloorBoards_pCube243
+    3300004: FloorBoards_pCube244
+    3300006: FloorBoards_pCube245
+    3300008: FloorBoards_pCube248
+    3300010: pCube241
+    3300012: pCube251
+    3300014: pCube255
+    3300016: polySurface26
+    3300018: polySurface32
+    3300020: polySurface36
+    3300022: polySurface38
+    3300024: polySurface44
+    3300026: polySurface45
+    3300028: polySurface46
+    3300030: polySurface47
+    3300032: polySurface48
+    3300034: polySurface58
+    3300036: polySurface65
+    3300038: polySurface66
+    3300040: polySurface67
+    3300042: polySurface69
+    3300044: polySurface70
+    3300046: pPlane2
+    4300000: pCube241
+    4300002: pCube251
+    4300004: polySurface26
+    4300006: pCube255
+    4300008: FloorBoards_pCube237
+    4300010: FloorBoards_pCube243
+    4300012: FloorBoards_pCube244
+    4300014: FloorBoards_pCube245
+    4300016: polySurface32
+    4300018: FloorBoards_pCube248
+    4300020: pPlane2
+    4300022: polySurface36
+    4300024: polySurface44
+    4300026: polySurface45
+    4300028: polySurface46
+    4300030: polySurface47
+    4300032: polySurface48
+    4300034: polySurface58
+    4300036: polySurface65
+    4300038: polySurface66
+    4300040: polySurface67
+    4300042: polySurface69
+    4300044: polySurface38
+    4300046: polySurface70
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DSRRBackWall
+    second: {fileID: 2100000, guid: 18b67228e38e7b84aa677d72200bef32, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DSRRCabnit
+    second: {fileID: 2100000, guid: 1bbf9c177ee7876438b1bc3e27aa3e2b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DSRRCounterTop
+    second: {fileID: 2100000, guid: cd3c9b47b1a1c874785e61e749f90941, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DSRRDoor
+    second: {fileID: 2100000, guid: 47f61070a91860b49a5f334390ee49aa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DSRRFloor
+    second: {fileID: 2100000, guid: c8a292efc9b3aa14e82325af01e1cc55, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DSRRFloorBoards
+    second: {fileID: 2100000, guid: 44719162aaa007f40a260c3e10fdc535, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DSRRFrontWall
+    second: {fileID: 2100000, guid: c6a4866193575124f974b07a9fbc5b61, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DSRRLightCovers
+    second: {fileID: 2100000, guid: e72f3f1f8904a6a41a687ffdebe1158b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DSRRMirror
+    second: {fileID: 2100000, guid: fbd89cd47d1fc5d4f9b8df3a750fc730, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DSRRShower
+    second: {fileID: 2100000, guid: f2795efca1bdc934b87052f397bd235b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DSRRShowerWall
+    second: {fileID: 2100000, guid: 152a2d646c2097141a74dde37a51c467, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DSRRSideWall
+    second: {fileID: 2100000, guid: f028d98ec8fc4604d990e35a3afc012a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DSRRSink
+    second: {fileID: 2100000, guid: 3d7d4f8a457d9684ca990dac29794b98, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DSRRSinkCabnit
+    second: {fileID: 2100000, guid: 1a1d4823f9b564846b661412c52806d1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DSRRSinkWall
+    second: {fileID: 2100000, guid: c340b54fd67345746a7dfd93f881c70e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DSRRStainlessSteel
+    second: {fileID: 2100000, guid: 727a37a8c3f1e7a489e524efe54a774b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DSRRToilet
+    second: {fileID: 2100000, guid: 469c7e542c3924b4bb300649873dd82b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DSRRTrash
+    second: {fileID: 2100000, guid: 9db0a7265468b114aafa130b74e677bc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GBedRDoorFrames
+    second: {fileID: 2100000, guid: 71f9cbab74ceb7848a2ce39dd38ee4e4, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
